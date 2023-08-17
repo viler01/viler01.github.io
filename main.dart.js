@@ -50970,7 +50970,7 @@ wo(a){$.ne().l(0,this,a)}}
 A.SR.prototype={}
 A.SQ.prototype={}
 A.xV.prototype={
-K(a){return new A.pm(B.Bl,"Flutter Demo",A.a5t(null,A.aaR(B.L,B.B7),!0),null)}}
+K(a){return new A.pm(B.Bl,"theExamplePage",A.a5t(null,A.aaR(B.L,B.B7),!0),null)}}
 A.pw.prototype={
 au(){return new A.td(B.p)}}
 A.td.prototype={
